@@ -1,0 +1,4 @@
+# Ignore all chunks and vector data
+chunks
+vector_store
+

@@ -1,0 +1,5 @@
+pymupdf
+ollama
+sentence-transformers
+faiss-cpu
+numpy
